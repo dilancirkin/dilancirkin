@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning React Native.
 - 🥰 I'm interested in mobile development
+- 📫 How to reach me dilancirkin@gmail.com
 
 <br/> <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilancirkin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,10 +12,12 @@
 ### Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left"/>][linkedin]
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" align="left"/>][medium]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="left"/>][twitter]
 
 [linkedin]:https://www.linkedin.com/in/dilancirkin/
 [twitter]:https://twitter.com/dilancirkin
+[medium]:https://medium.com/@dilancirkin
 
 <br/> <br/>
 ### Languages and Tools:
