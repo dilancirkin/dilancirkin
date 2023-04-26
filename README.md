@@ -1,7 +1,5 @@
 ### Hi there 👋 , I'm Dilan.
 
-- 🌱 I’m currently learning React Native.
-- 🥰 I'm interested in mobile development
 - 📫 How to reach me dilancirkin@gmail.com
 
 <br/> <br/>
