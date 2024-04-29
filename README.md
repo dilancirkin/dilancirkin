@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilan</h1>
+
+- 🔭 I'm currently working on React and React Native.
 - 📫 How to reach me dilancirkin@gmail.com
 
 <br/> <br/>
